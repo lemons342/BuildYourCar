@@ -1,2 +1,2 @@
 # BuildYourCar
-Mobile-friendly web application for users to input build lists in a organized and convenient location.
+Download Project.zip to receive a zip folder of all necessary files.
